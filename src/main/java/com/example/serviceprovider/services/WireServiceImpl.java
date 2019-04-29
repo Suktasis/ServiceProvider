@@ -15,6 +15,5 @@ public class WireServiceImpl implements WireService {
 	     public String add() {
 	         return CLICHED_MESSAGE;
 	 }
-	 
-	 
+
 }
